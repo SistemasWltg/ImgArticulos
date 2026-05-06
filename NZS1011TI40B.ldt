@@ -6,10 +6,10 @@ AION
 19
 5
 AION
-AION PANEL ZEUS 40W 6500K ON/OFF BLANCO
-NZS1011TI65B
-
-LDT Editor version 1.4.1.0 - DIAL GmbH (www.dial.de) on 21-03-2025
+AION PANEL ZEUS 40W 4000K ON/OFF BLANCO
+NZS1011TI40B
+NZS1011TI40B.ldt
+LDT Editor version 1.4.1.0 - DIAL GmbH (www.dial.de) on 06-05-2026
 603
 603
 30
@@ -26,8 +26,8 @@ LDT Editor version 1.4.1.0 - DIAL GmbH (www.dial.de) on 21-03-2025
 1
 1
 LED
-4320.0
-6500
+3917.0
+4000
 80
 40
 0.26
